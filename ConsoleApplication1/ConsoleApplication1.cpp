@@ -8,7 +8,7 @@
 #include<conio.h>
 #include<time.h>
 
-#define HEIGHT 450
+#define HEIGHT 470
 #define WIDTH 800   //窗口大小
 IMAGE temp_img, img_bg, img_littlep, img_pipixia1, img_pipixia2, img_lazhu1, img_dizidan;
 
