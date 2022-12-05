@@ -1,0 +1,102 @@
+﻿“ConsoleApplication1.exe”(Win32): 已加载“C:\Users\15825\Desktop\光遇project\Debug\ConsoleApplication1.exe”。已加载符号。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\user32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\win32u.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32full.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp_win.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbase.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\shell32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\ole32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\combase.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\imm32.dll”。无法查找或打开 PDB 文件。
+线程 0x3ab8 已退出，返回值为 0 (0x0)。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcryptprimitives.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\uxtheme.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\ProgramData\A-Volute\A-Volute.Nahimic\Modules\Scheduled\AudioDevProps2.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\advapi32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\sechost.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\ws2_32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\shlwapi.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.1466_none_d951c753e1040cbe\GdiPlus.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\msctf.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\oleaut32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\TextInputFramework.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreUIComponents.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreMessaging.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\SHCore.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntmarta.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\WinTypes.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\WinTypes.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已卸载“C:\Windows\SysWOW64\WinTypes.dll”
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\clbcatq.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\SogouTSF.ime”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\msimg32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\windows.storage.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\wldp.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\SogouPY.ime”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\oleacc.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“E:\SogouInput\8.7.0.1682\Resource.dll”。模块已生成，不包含符号。
+“ConsoleApplication1.exe”(Win32): 已卸载“E:\SogouInput\8.7.0.1682\Resource.dll”
+“ConsoleApplication1.exe”(Win32): 已加载“E:\SogouInput\8.7.0.1682\Resource.dll”。模块已生成，不包含符号。
+“ConsoleApplication1.exe”(Win32): 已加载“E:\SogouInput\Components\PicFace\1.1.0.1781\PicFace.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\comdlg32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_c0da534e38c01f4d\comctl32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\dwmapi.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\profapi.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\psapi.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“E:\SogouInput\Components\VoiceInput\1.0.0.139\VoiceInput.dll”。无法查找或打开 PDB 文件。
+线程 0x6ce8 已退出，返回值为 0 (0x0)。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\TextShaping.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\WindowsCodecs.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcrypt.dll”。无法查找或打开 PDB 文件。
+线程 0x6cec 已退出，返回值为 0 (0x0)。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\propsys.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\cfgmgr32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\Windows.FileExplorer.Common.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\iertutil.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\edputil.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\Windows.StateRepositoryPS.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\urlmon.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\srvcli.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\netutils.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\sspicli.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\cldapi.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\fltLib.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\AppResolver.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\BCP47Langs.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\slc.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\userenv.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\sppc.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\OneCoreCommonProxyStub.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\OneCoreUAPCommonProxyStub.dll”。无法查找或打开 PDB 文件。
+线程 0xdf0 已退出，返回值为 0 (0x0)。
+“ConsoleApplication1.exe”(Win32): 已加载“E:\SogouInput\Components\SogouFlash\1.0.0.203\sogouflashdll.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\Wldap32.dll”。无法查找或打开 PDB 文件。
+线程 0x3028 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x6934 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x6d28 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x6d0c 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x5960 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x6364 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x6cf4 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x62c4 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0xc68 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0xe14 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x6f2c 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x65dc 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x5734 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x41d8 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x6810 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x6cf8 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x28a4 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x4c3c 已退出，返回值为 -1073741510 (0xc000013a)。
+程序“[1724] ConsoleApplication1.exe”已退出，返回值为 -1073741510 (0xc000013a)。
